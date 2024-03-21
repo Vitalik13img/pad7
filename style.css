@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;margin-top: 0px;margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1 {font-family: Courier New, monospace;
+    text-align: center}
+    nav{display: flex;
+    justify-content: space-evenly;
+    }
+    nav a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #684A83;
+    margin-top: 15px;
+    margin-bottom: 15px;margin: 30px;
+}
+header {font-family: Courier New, monospace;
+    background-color: gray;}
+    nav{display: flex;
+    justify-content: space-evenly;}
+h2 {font-family: Courier New, monospace;
+    text-align: center;color: #684A83;}
+    .gallery{display: flex;}
+    .gallery {justify-content: center;
+    background-color: white;
+    padding: 25px;
+}
+.gallery img:hover{background-color: #F3F3FB;padding: 15px; }
+img{width: 280px;height: 240px;}
+p{text-align: center;font-family: Bradley Hand, cursive	;}
+.footer{text-align: left;}
+div{font-family: Luminari, fantasy	;}
+footer{font-family: Courier New, monospace;
+    background-color:#58545B;}
+p img{width: 20px;height: 20px;}
